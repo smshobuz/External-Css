@@ -2,7 +2,7 @@ h1 {
     text-align: center;
     text-shadow: 5px;
     height: 400px;
-    color: rgb(27, 205, 215);
+    color: rgb(248, 255, 255);
     background-image: url('web.png');
     background-size: cover;
     padding: 5px;
@@ -14,7 +14,7 @@ h1 {
 h3 {
     text-align: left;
     /* text-decoration: underline blueviolet; */
-    color: magenta;
+    color: blueviolet;
     display: inline-block;
     box-shadow: 2px 2px blueviolet;
 }
@@ -25,7 +25,7 @@ p {
     background-size: 100%;
     background-blend-mode: multiply;
     box-shadow: 5px 5px;
-    background
+
 }
 
 .page-title {
